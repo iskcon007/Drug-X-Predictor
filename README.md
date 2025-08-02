@@ -43,7 +43,7 @@ To develop a classification model that predicts drug usage behavior (regular or 
 🚀 How to Run
 ```bash
 Clone the repo
-git clone https://github.com/yourusername/DrugX-Predictor.git
+https://github.com/iskcon007/Drug-X-Predictor
 
 Navigate into the project
 cd DrugX-Predictor
