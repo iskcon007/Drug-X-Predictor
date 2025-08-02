@@ -41,10 +41,6 @@ To develop a classification model that predicts drug usage behavior (regular or 
 - ROC Curves for Model Comparison
   
 🚀 How to Run
-```bash
-Clone the repo
-https://github.com/iskcon007/Drug-X-Predictor
-
 Navigate into the project
 cd DrugX-Predictor
 
